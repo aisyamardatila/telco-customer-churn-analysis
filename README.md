@@ -66,4 +66,4 @@ Data files © Original Authors (data contoh IBM). Salinan data disertakan hanya 
 | `data/cleaned/tele-churn-clean.csv` | Data setelah cleaning dan kolom turunan (7.032 baris) |
 | `workbook/tele-churn-workbook.xlsx` | Workbook Google Sheets (tab `raw`, `clean`, `analysis`) beserta rumus dan pivot |
 | `dashboard/overview.jpg`, `dashboard/deep-dive.jpg` | Screenshot dashboard halaman 1 dan 2 |
-| `dashboard/dashboard_telco_customer_churn....pdf` | Dashboard dalam format PDF |
+| `dashboard/dashboard_telco_customer_churn.pdf` | Dashboard dalam format PDF |
