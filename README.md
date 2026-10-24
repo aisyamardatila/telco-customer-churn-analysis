@@ -60,10 +60,10 @@ Data files © Original Authors (data contoh IBM). Salinan data disertakan hanya 
 
 ## Struktur Repositori
 
-```
-├── data/raw/                 (CSV asli Kaggle)
-├── data/cleaned/             (CSV hasil cleaning)
-├── workbooks/                (workbook Google Sheets dalam .xlsx)
-├── dashboard/                (screenshot dan PDF)
-└── docs/insights.md
-```
+| File | Isi |
+|---|---|
+| `data/raw/tele-churn-raw.csv` | Data asli dari Kaggle (7.043 baris), tidak diubah |
+| `data/cleaned/tele-churn-clean.csv` | Data setelah cleaning dan kolom turunan (7.032 baris) |
+| `workbook/tele-churn-workbook.xlsx` | Workbook Google Sheets (tab `raw`, `clean`, `analysis`) beserta rumus dan pivot |
+| `dashboard/overview.jpg`, `dashboard/deep-dive.jpg` | Screenshot dashboard halaman 1 dan 2 |
+| `dashboard/dashboard_telco_customer_churn....pdf` | Dashboard dalam format PDF |
